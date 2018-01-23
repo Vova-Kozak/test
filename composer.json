@@ -28,5 +28,6 @@
 		"psr-4": {
 			"Test\\TestPHP\\": "src/"
 		}
-	}
+	},
+	"minimum-stability":"dev"
 }
